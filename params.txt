@@ -1,0 +1,14 @@
+FIRST_SOLUTION false
+DISJUNCTIVE_CONSTRAINTS_MODELING 1
+ASTAR_SUBOPTIMAL_WEIGHT 1
+CBS_STRATEGY 0
+TIMEOUT 120
+NUM_THREADS 0
+FAST_FORWARD_IT 0
+op mapf
+folder ./data/M8/
+instance M8_agents2_ex35.yaml
+algo mcnf
+outFile out.yaml
+pre_command date
+prepFile
