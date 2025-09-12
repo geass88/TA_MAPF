@@ -3,7 +3,7 @@
 # TA-MAPF
 
 This archive is distributed in association with the [INFORMS Journal on
-Computing](https://pubsonline.informs.org/journal/ijoc) under the [Apache License](http://www.apache.org/licenses/LICENSE-2.0).
+Computing](https://pubsonline.informs.org/journal/ijoc) under the MIT License.
 
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported in the paper 
