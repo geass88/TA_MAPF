@@ -10,7 +10,7 @@ that were used in the research reported in the paper
 [Solving the Multi-Agent Pathfinding Problem with
 Time-Expanded Networks](https://doi.org/10.1287/ijoc.2024.0951) by Tommaso Adamo, Roberto Baldacci, Gianpaolo Ghiani and Emanuela Guerriero. 
 The snapshot is based on 
-[this SHA](https://github.com/geass88/TA_MAPF/commit/77d1f613e949b185fdd379e864033e463dc14a3d) 
+[this SHA](https://github.com/geass88/TA_MAPF/commit/0dcab5493e5b15fd12eb540a8cffb513cf0c6777) 
 in the development repository. 
 
 **Important: This code is being developed on an on-going basis at 
