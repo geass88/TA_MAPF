@@ -2,8 +2,10 @@
 
 # TA-MAPF
 
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+
 This archive is distributed in association with the [INFORMS Journal on
-Computing](https://pubsonline.informs.org/journal/ijoc) under the MIT License.
+Computing](https://pubsonline.informs.org/journal/ijoc) under the [Apache License](http://www.apache.org/licenses/LICENSE-2.0).
 
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported in the paper 
